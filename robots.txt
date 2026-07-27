@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://josedramirezm.github.io/sitemap.xml
